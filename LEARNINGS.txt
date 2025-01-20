@@ -1,0 +1,1 @@
+JUnit is like a helper tool for programmers that makes it easy to check if their code is working correctly. Think of it as a trusted coach who tests your code to make sure it behaves the way you expect.
